@@ -1,2 +1,2 @@
-# angryBirdsStage2StudentActivity
-Student Activity Link for Angry Birds Stage 2
+# angry bird game
+Trying to make angry bird game with setting up the stage
